@@ -1,7 +1,3 @@
-Com certeza\! Adicionar uma nota sobre a personalização dos nomes das variáveis é uma ótima ideia para tornar o README ainda mais completo e útil.
-
-Incorporei essa instrução na seção de configuração das variáveis de ambiente. Aqui está o README atualizado:
-
 -----
 
 # 🚀 Projeto RAG Manu
