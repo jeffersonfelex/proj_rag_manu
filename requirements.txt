@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain_openai
+azure-functions
+pinecone
+pypdf
+openai
+flask
